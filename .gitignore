@@ -1,0 +1,14 @@
+# Ignorar entornos virtuales
+entorno/
+venv/
+.env/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+
+# Base de datos local (se puede generar con el SQL)
+base_datos/proyecto.db
+
+# Configs de VS Code
+.vscode/
